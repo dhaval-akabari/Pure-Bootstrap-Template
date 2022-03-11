@@ -1,0 +1,13 @@
+@media (max-width: 768px) {
+  .display-2 {
+    font-size: 4rem;
+  }
+}
+@media (max-width: 576px) {
+  .display-2 {
+    font-size: 3rem;
+  }
+  h1 {
+    font-size: 2rem;
+  }
+}
